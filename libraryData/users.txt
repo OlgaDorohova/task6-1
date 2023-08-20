@@ -1,0 +1,7 @@
+login=:=1,password=:=00253,email=:=as@we.ewr,isAdmin=:=false
+login=:=2,password=:=032,email=:=as.ewr,isAdmin=:=false
+login=:=3,password=:=325,email=:=as.ewr,isAdmin=:=false
+login=:=4,password=:=532,email=:=as.ewr,isAdmin=:=false
+login=:=5,password=:=457,email=:=as.ewr,isAdmin=:=false
+login=:=6,password=:=547524,email=:=as.ewr,isAdmin=:=false
+login=:=Admin,password=:=HdhdHdkdkd7540,email=:=admin@site.com,isAdmin=:=true

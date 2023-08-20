@@ -1,0 +1,8 @@
+title=Head First Java,author=Kathy Sierra,year=2003,type=paper
+title=Java: A Beginner’s Guide,author=Herbert Schildt,year=2018,type=paper
+title=Java For Dummies,author= Barry A. Burd,year=2015,type=paper
+title=Effective Java 3rd Edition,author=Joshua Bloch,year=2003,type=paper
+title=Head First Design Patterns,author=Eric Freeman,year=2021,type=paper
+title=Peter Pan,author=J.M. Barrie,year=2014,type=paper
+title=Harry Potter and the Philosopher's Stone,author=J.K. Rowling,year=2014,type=paper
+title=Head First Java,author=Kathy Sierra,year=2005,type=paper
